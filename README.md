@@ -10,5 +10,4 @@ If you want to add a method to the class you should update the **TIMERPROC_INDEX
 Thanks for your attention!
 
 The trick,
-
 2019.
