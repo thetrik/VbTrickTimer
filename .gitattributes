@@ -14,3 +14,4 @@
 *.pdb binary
 *.RES binary
 *.obj binary
+*.doc binary
